@@ -1,0 +1,47 @@
+html {background-color: #ffffff}
+
+header {border-radius: 500px;
+ 	 background: #ffb1c2;
+ 	 padding: 20px;
+ 	 width: 900px;
+ 	 height: 150px;
+	 margin-top: 50px;text-align: center;
+       position: relative; left: -20ex;}
+
+header h1{color:white; position: relative; left: 10ex; font-size:28pt}
+header h3{color:white; position: relative; left: 16ex; font-size:18pt}
+header img{position: relative; top:-180px; left: -200px;}
+
+
+#leftcolumn{border-radius: 100px;
+ 	 background:  #cceeff;
+ 	 padding: 20px;
+ 	 width: 600px;
+ 	 height: 900px;
+	 margin-top: 50px;text-align: center;
+       position: relative; left: -20ex;
+}
+.objectives{position: relative; right:-17ex; text-align:left; color:#000000; font-size:14pt}
+
+#leftcolumn ul{position: relative; right:-15ex; text-align:left;color:#000000; font-size:14pt}
+#leftcolumn label{position: relative; text-align:left;color:#000000; font-size:14pt}
+#leftcolumn h2{position: relative; left:-8ex;color:#000000; 
+}
+#leftcolumn img{position: relative; left: -140px;top: 40px;}
+
+ .info{position: relative; left: -40px;top: 5px;}
+.yt{position: relative; left: -140px;top: 40px;height: 25px;width: 55px;}
+
+
+#rightcolumn{
+       position: relative; right:-100ex; top: -930px;;
+}
+
+
+
+
+
+
+
+
+
